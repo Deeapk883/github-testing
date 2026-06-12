@@ -1,4 +1,7 @@
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Hello {name}"
 
-print(greet("World"))
+def login(user):
+    return f"{user} logged in"
+
+print(greet("Deepak"))
