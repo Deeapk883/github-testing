@@ -1,3 +1,7 @@
-# GitHub Testing Repository
+# GitHub Testing
 
-This repository is used for learning Git and GitHub operations.
+This repository is used for learning Git operations.
+
+## Features
+- Greeting function
+- Login function
