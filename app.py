@@ -4,4 +4,5 @@ def greet(name):
 def login(user):
     return f"{user} logged in"
 
-print(greet("Deepak"))
+if __name__ == "__main__":
+    print(greet("Deepak"))
